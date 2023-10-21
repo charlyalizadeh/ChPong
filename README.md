@@ -4,8 +4,8 @@ An implementation of Pong using SFML.
 
 ## TODO
 
-[] Implement the score system
-[] Better AI
+- [ ] Implement the score system
+- [ ] Better AI
 
 ## Screenshots
 
