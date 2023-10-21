@@ -1,8 +1,11 @@
 # ChPong
 
-![](./images/Game.png)
-
 An implementation of Pong using SFML.
+
+## TODO
+
+[] Implement the score system
+[] Better AI
 
 ## Screenshots
 
